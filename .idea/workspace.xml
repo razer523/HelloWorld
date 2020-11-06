@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a410b00-3227-4538-b143-1bafdfe1d9ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jZDoW8T3A4IUcBgIaoysnt0mHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a410b00-3227-4538-b143-1bafdfe1d9ee" name="Default Changelist" comment="" />
+      <created>1604002894996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604002894996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="954" y="271" key="#PSD" timestamp="1604003867234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="954" y="271" key="#PSD/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604003867234" />
+    <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604079329796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604079329796" />
+    <state x="1062" y="125" width="751" height="800" key="AVDManager" timestamp="1604002994598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1062" y="125" width="751" height="800" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604002994598" />
+    <state x="1217" y="280" key="FileChooserDialogImpl" timestamp="1604003851691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1217" y="280" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604003851691" />
+    <state x="922" y="170" key="SettingsEditor" timestamp="1604003911058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="170" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604003911058" />
+    <state x="1100" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1604002961776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1100" y="244" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604002961776" />
+  </component>
+</project>
